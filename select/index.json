@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "しんでしまうとはなさけない！",
+  "base_artist": "Wonderful★opportunity!",
+  "createdAt": "2026-03-31T09:31:27.159668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Death Should Not Have Taken Thee! (English Cover)【JubyPhonic】しんでしまうとはなさけない！",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Death_Should_Not_Have_Taken_Thee!_(English_Cover)【JubyPhonic】しんでしまうとはなさけない!_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "じーざす（ワンダフル☆オポチュニティ！） feat. 鏡音リン、鏡音レン",
+      "has_synced": true,
+      "path": "select/02_しんでしまうとはなさけない!_じーざす(ワンダフル☆オポチュニティ!)_feat._鏡音リン、鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざす（ワンダフル☆オポチュニティ！） feat.鏡音リン、鏡音レン",
+      "has_synced": true,
+      "path": "select/03_しんでしまうとはなさけない!_じーざす(ワンダフル☆オポチュニティ!)_feat.鏡音リン、鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざす(ワンダフル☆オポチュニティ!)",
+      "has_synced": true,
+      "path": "select/04_しんでしまうとはなさけない!_じーざす(ワンダフル☆オポチュニティ!).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざす(ワンダフル☆オポチュニティ!) feat. いかさん",
+      "has_synced": true,
+      "path": "select/05_しんでしまうとはなさけない!_じーざす(ワンダフル☆オポチュニティ!)_feat._いかさん.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざす(ワンダフル☆オポチュニティ!); いかさん",
+      "has_synced": true,
+      "path": "select/06_しんでしまうとはなさけない!_じーざす(ワンダフル☆オポチュニティ!);_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざすP feat. 鏡音リン Append (Power), 鏡音レン Append (Power)",
+      "has_synced": true,
+      "path": "select/07_しんでしまうとはなさけない!_じーざすP_feat._鏡音リン_Append_(Power),_鏡音レン_Append_(Power).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "jesus (wonderful Opportunity!!)",
+      "has_synced": false,
+      "path": "select/08_しんでしまうとはなさけない!_jesus_(wonderful_Opportunity!!).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざすP; 鏡音リン; 鏡音レン",
+      "has_synced": true,
+      "path": "select/09_しんでしまうとはなさけない!_じーざすP;_鏡音リン;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "じーざす; ワンダフル☆オポチュニティ！; 鏡音リン; 鏡音レン",
+      "has_synced": true,
+      "path": "select/10_しんでしまうとはなさけない!_じーざす;_ワンダフル☆オポチュニティ!;_鏡音リン;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "WONDERFUL★OPPORTUNITY!",
+      "has_synced": false,
+      "path": "select/11_しんでしまうとはなさけない!_WONDERFUL★OPPORTUNITY!.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "Wonderful Opportunity",
+      "has_synced": true,
+      "path": "select/12_しんでしまうとはなさけない!_Wonderful_Opportunity.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！ with クプラ",
+      "artist": "+α／あるふぁきゅん。",
+      "has_synced": false,
+      "path": "select/13_しんでしまうとはなさけない!_with_クプラ_+α_あるふぁきゅん。.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "JesusP",
+      "has_synced": false,
+      "path": "select/14_しんでしまうとはなさけない!_JesusP.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "じーざすP",
+      "has_synced": true,
+      "path": "select/15_しんでしまうとはなさけない!_じーざすP.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/16_しんでしまうとはなさけない!_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "じーざすP / マイナスP",
+      "has_synced": true,
+      "path": "select/17_しんでしまうとはなさけない!_じーざすP___マイナスP.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "しんでしまうとはなさけない！",
+      "artist": "鏡音レン",
+      "has_synced": true,
+      "path": "select/18_しんでしまうとはなさけない!_鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しんでしまうとはなさけない!",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": false,
+      "path": "select/pl_01_しんでしまうとはなさけない!_Wonderful★opportunity!.txt"
+    }
+  ]
+}
